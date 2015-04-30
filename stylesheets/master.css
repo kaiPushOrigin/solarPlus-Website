@@ -1,11 +1,17 @@
+.navbar-default {
+  background-color: #fff !important;
+}
+
 h2 {
   margin-top: 48px !important;
 }
 
 #features {
-
   padding-top: 20px;
+}
 
+#footer {
+  text-align: center;
 }
 #sideImg {
   margin-top: 48px !important;
@@ -19,33 +25,7 @@ h2 {
 
 
 
-.bg {
-  	background: no-repeat center center;
-  	width: 100%;
-  	margin-top: 40px;
-  	top:0;
-  	left:0;
-  	z-index: -1;
 
-}
-
-
-
-
-.supporters{
-  width: 90%;
-  height: auto;
-  margin: 0 auto;
-  padding-top: 0px;
-}
-
-.smu{
-  width: 100%;
-  height: auto;
-  margin: 0 auto;
-  padding-top: 0px;
-
-}
 
 
 
