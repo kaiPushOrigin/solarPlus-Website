@@ -2,6 +2,10 @@
   background-color: #fff !important;
 }
 
+#logo {
+margin-top: -5px !important;
+}
+
 #myCarousel {
   margin-top: -22px;
 }
