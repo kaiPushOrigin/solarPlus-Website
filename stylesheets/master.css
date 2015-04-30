@@ -2,7 +2,9 @@
   background-color: #fff !important;
 }
 
-
+#myCarousel {
+  margin-top: -22px;
+}
 h2 {
   margin-top: 48px !important;
 }
