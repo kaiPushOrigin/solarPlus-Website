@@ -56,15 +56,20 @@ html, body {
   background-size:cover;
 }
 .carousel .carousel-inner .bg1 {
-  background-image:url(dean.jpg);
+  background-image:url(../img/sliderTwo.png);
   background-position: center top; 
 }
 .carousel .carousel-inner .bg2 {
-  background-image:url(shellers.jpeg);
+  background-image:url(../img/sliderOne.png);
   background-position: center center; 
 }
 .carousel .carousel-inner .bg3 {
-  background-image:url(linux.jpg);
+  background-image:url(../img/sliderThree.png);
+  background-position: center bottom; 
+}
+
+.carousel .carousel-inner .bg4 {
+  background-image:url(../img/sliderFour.png);
   background-position: center bottom; 
 }
 
